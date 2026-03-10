@@ -116,7 +116,3 @@
 - [LinkedIn](https://www.linkedin.com/in/levioliveira/)
 - [Instagram](https://www.instagram.com/levisdrum/)
 
-## Notes
-
-- Technologies in the README are curated manually. They are not inferred automatically by GitHub.
-- If you want live GitHub charts, they depend on third-party services and can become visually inconsistent.
