@@ -1,176 +1,113 @@
-# Levi Alves
+<div align="center">
 
-Design Systems Architect • Frontend Platform Engineer • AI Builder
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=LEVI+ALVES;DESIGN+SYSTEMS+ARCHITECT;FRONTEND+PLATFORM+ENGINEER;DESIGN+%E2%86%92+CODE+%E2%86%92+ADOPTION" alt="Levi Alves heading" />
 
-I work at the intersection of **Design, Engineering and Product Platforms**, building scalable UI systems, developer tooling and workflows that connect design and code.
+<p>
+  <strong>Design Systems Architect</strong> •
+  <strong>Frontend Platform Engineer</strong> •
+  <strong>Design-to-Code</strong>
+</p>
 
-With 15+ years in frontend engineering, I focus on creating **design system platforms, adoption metrics and developer experience improvements** that scale across large organizations.
+<p>
+  I build scalable UI platforms, component libraries, token systems, and adoption tooling that connect
+  design, engineering, and product at enterprise scale.
+</p>
 
----
+<p>
+  <a href="https://www.linkedin.com/in/levioliveira/">
+    <img src="https://img.shields.io/badge/LinkedIn-LEVIALVES-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://levisdrum.github.io/levialves/">
+    <img src="https://img.shields.io/badge/Portfolio-LEVISDRUM.GITHUB.IO-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.instagram.com/levisdrum/">
+    <img src="https://img.shields.io/badge/Instagram-LEVISDRUM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-## What I Do
+<p>
+  <img src="https://komarev.com/ghpvc/?username=levisdrum&style=flat-square&color=111111" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/levisdrum?style=flat-square&color=111111" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/levisdrum?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=111111" alt="GitHub stars" />
+</p>
 
-- Design System Architecture
-- Frontend Platform Engineering
-- Design → Code workflows
-- Design System adoption metrics
-- Developer Experience (DX)
-- AI-assisted UI generation
-- Component libraries
-- Multi-brand theming
+</div>
 
----
+## Focus Areas
 
-## Impact Areas
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Design Systems</h3>
+      <p>Architecture for tokens, components, theming, documentation, governance, and accessibility.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Platform Engineering</h3>
+      <p>Tooling, DX, repository analysis, adoption metrics, and scalable frontend foundations.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Design → Code</h3>
+      <p>Workflows that connect Figma, code, Storybook, and AI-assisted UI generation.</p>
+    </td>
+  </tr>
+</table>
 
-### Design System Platforms
+## What I Work On
 
-Architecting scalable design systems used across multiple products and teams.
-
-Topics:
-
-- Component architecture
-- Token systems
-- Multi-brand theming
-- Platform governance
-- Performance and bundle size
-- Documentation and developer onboarding
-
----
-
-### Design + Engineering Integration
-
-Bridging the gap between design and development using modern tooling.
-
-Examples:
-
-- Figma Dev Mode workflows
-- Token pipelines
-- Component documentation
-- Storybook architecture
-- Design-to-code automation
-
----
-
-### Adoption & Metrics
-
-Design systems only create value if they are **used**.
-
-I work on tools and scripts to measure adoption and impact across large codebases.
-
-Examples:
-
-- repository analysis
-- component usage tracking
-- adoption dashboards
-- migration analysis (v2 → v3)
-
----
-
-### AI + Product Development
-
-Exploring how AI can improve product development workflows.
-
-Areas of experimentation:
-
-- AI-generated interfaces
-- design-to-code automation
-- developer tooling
-- UI generation pipelines
-
----
+- Design System architecture for web and mobile products
+- Component libraries and token pipelines
+- Multi-brand theming and governance models
+- Documentation systems and Storybook architecture
+- Adoption metrics, migration analysis, and repository tooling
+- Design-to-code workflows and AI-assisted product development
 
 ## Tech Stack
 
-Frontend
+### Core
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,angular,vite,nodejs,html,css,sass,figma,git,github" alt="Core stack" />
+</p>
 
-- React
-- TypeScript
-- Web Components
-- Vite
-- Next.js
+### Design Systems and Platform
+<p>
+  <img src="https://img.shields.io/badge/Storybook-Documentation%20%26%20Component%20API-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/Design%20Tokens-Architecture-111111?style=flat-square" alt="Design Tokens" />
+  <img src="https://img.shields.io/badge/Accessibility-WCAG%202.2%20AA-111111?style=flat-square" alt="Accessibility" />
+  <img src="https://img.shields.io/badge/Figma-Dev%20Mode%20Workflows-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Zeroheight-Documentation-111111?style=flat-square" alt="Zeroheight" />
+  <img src="https://img.shields.io/badge/Flutter-Shared%20Foundations-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Web%20Components-Platform%20Thinking-111111?style=flat-square" alt="Web Components" />
+</p>
 
-Design Systems
+## GitHub Metrics
 
-- Storybook
-- Design Tokens
-- Component Libraries
-- Theming Architectures
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=levisdrum&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=444444&icon_color=111111&rank_icon=github" alt="GitHub stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levisdrum&layout=compact&hide_border=true&bg_color=00000000&title_color=111111&text_color=444444" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
-Design Tools
+## Current Direction
 
-- Figma
-- Dev Mode
-- Design Tokens pipelines
+- Enterprise Design Systems
+- Frontend platform architecture
+- Adoption metrics and repository tooling
+- Design-to-code pipelines
+- AI-assisted UI workflows
 
-Backend / Tooling
+## Public Presence
 
-- Node.js
-- GitHub APIs
-- Automation scripts
-- data pipelines
+- [Portfolio](https://levisdrum.github.io/levialves/)
+- [LinkedIn](https://www.linkedin.com/in/levioliveira/)
+- [Instagram](https://www.instagram.com/levisdrum/)
 
-AI
+## Notes
 
-- LLM workflows
-- UI generation experiments
-- AI-assisted development
-
----
-
-## Open Source / Experiments
-
-### Design System Starter
-
-A reference architecture for building scalable component libraries.
-
-Topics:
-
-- tokens
-- theming
-- components
-- documentation
-
----
-
-### Design System Metrics Tool
-
-Tooling to analyze repositories and measure design system adoption.
-
-Features:
-
-- repository scanning
-- component usage metrics
-- migration analysis
-
----
-
-### AI UI Generator
-
-Experimental project connecting AI-generated UI with component systems.
-
-Goals:
-
-- generate UI from prompts
-- map UI to components
-- accelerate prototyping
-
----
-
-## Writing & Thoughts
-
-Topics I enjoy exploring:
-
-- Design Systems Architecture
-- Design → Code workflows
-- Measuring Design System adoption
-- Developer Experience
-- AI in Product Development
-
----
-
-## Connect
-
-LinkedIn  
-Portfolio  
-GitHub
+- GitHub metrics only reflect public activity unless private contributions are enabled in your profile settings.
+- Technologies in the README are curated manually. They are not inferred automatically by GitHub.
