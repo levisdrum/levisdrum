@@ -27,8 +27,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=levisdrum&style=flat-square&color=111111" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/levisdrum?style=flat-square&color=111111" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/levisdrum?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=111111" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/followers/levisdrum?label=followers&style=flat-square&color=111111" alt="GitHub followers" />
 </p>
 
 </div>
@@ -48,6 +47,29 @@
     <td width="33%" valign="top">
       <h3>Design → Code</h3>
       <p>Workflows that connect Figma, code, Storybook, and AI-assisted UI generation.</p>
+    </td>
+  </tr>
+</table>
+
+## Highlights
+
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>15+</h3>
+      <p>Years building frontend systems, products, and enterprise UI architecture.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>DS</h3>
+      <p>Design Systems, tokens, documentation, component libraries, and governance.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>DX</h3>
+      <p>Developer experience, adoption tooling, repository analysis, and platform thinking.</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>AI</h3>
+      <p>Design-to-code workflows and AI-assisted product development experiments.</p>
     </td>
   </tr>
 </table>
@@ -80,19 +102,6 @@
   <img src="https://img.shields.io/badge/Web%20Components-Platform%20Thinking-111111?style=flat-square" alt="Web Components" />
 </p>
 
-## GitHub Metrics
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=levisdrum&show_icons=true&hide_border=true&bg_color=00000000&title_color=111111&text_color=444444&icon_color=111111&rank_icon=github" alt="GitHub stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levisdrum&layout=compact&hide_border=true&bg_color=00000000&title_color=111111&text_color=444444" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
 ## Current Direction
 
 - Enterprise Design Systems
@@ -109,5 +118,5 @@
 
 ## Notes
 
-- GitHub metrics only reflect public activity unless private contributions are enabled in your profile settings.
 - Technologies in the README are curated manually. They are not inferred automatically by GitHub.
+- If you want live GitHub charts, they depend on third-party services and can become visually inconsistent.
